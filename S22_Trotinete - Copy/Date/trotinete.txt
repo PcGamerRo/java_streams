@@ -1,0 +1,7 @@
+trotineta1	100	42.5	53
+trotineta2	112.3	42	43.
+trotineta3	107.3	42	41.2
+trotineta4	99.1	42	40.9
+trotineta5	100	32.7	43
+trotineta6	100	54.9	63.8
+trotineta7	100	25.3	30
